@@ -2,7 +2,8 @@
 SQLyog Ultimate v12.09 (64 bit)
 MySQL - 5.7.19-log : Database - demo
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -90,7 +91,8 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 
-insert  into `user`(`id`,`code`,`name`,`age`,`email`,`sex`,`status`,`gmt_create`,`gmt_modified`) values (1,'1','Hurry',11,NULL,1,'1','2019-09-02 01:17:11','2019-12-09 02:00:51');
+insert  into `user`(`id`,`code`,`name`,`age`,`email`,`sex`,`status`,`gmt_create`,`gmt_modified`) values (
+    1,'1','Hurry',11,NULL,1,'1','2019-09-02 01:17:11','2019-12-09 02:00:51');
 
 UNLOCK TABLES;
 
