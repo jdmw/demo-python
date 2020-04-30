@@ -153,7 +153,7 @@ def initDb(c):
 
 
 
-if __name__ == '__main__':
+if __name__ == '__main1__':
 
     initDb(c)
     app = tornado.web.Application(routes)

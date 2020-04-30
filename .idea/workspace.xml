@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1da9ff8-09dd-4f32-b724-085d9ada1c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/buildintype/comparing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/buildintype/math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/buildintype/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-py-lang/src/basic/class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-py-lang/src/basic/data_type/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-py-lang/src/basic/data_type/buildintype/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-py-lang/src/basic/errors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-py-lang/src/basic/expression/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/class/class1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/class/scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/class/scope_nonlocal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/buildintype/comparing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/buildintype/math.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/buildintype/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/list-comprehensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/data_type/tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/errors/divide.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/errors/open_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/errors/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/basic/expression/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/module/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/module/m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py3/test/demo_yield.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,33 +41,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basic/buildintype/testing.py">
+        <entry file="file://$PROJECT_DIR$/demo-py-lang/app.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/demo_yield.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" selection-start-line="40" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basic/buildintype/comparing.py">
+        <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/expression/generator.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/data_type/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/basic/buildintype/math.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/data_type/buildintype/testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            <state relative-caret-position="171">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-py-lang/src/app.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libs/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,32 +112,21 @@
         <option value="$PROJECT_DIR$/src/basic/buildintype/testing.py" />
         <option value="$PROJECT_DIR$/src/basic/buildintype/comparing.py" />
         <option value="$PROJECT_DIR$/src/basic/buildintype/math.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/demo-python.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
+        <option value="$PROJECT_DIR$/src/basic/expression/generator.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1001" />
-    <option name="y" value="120" />
-    <option name="width" value="1155" />
-    <option name="height" value="873" />
+    <option name="x" value="199" />
+    <option name="y" value="114" />
+    <option name="width" value="1573" />
+    <option name="height" value="951" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,19 +137,30 @@
             <path>
               <item name="demo-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-python" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-python" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="tornado" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo-py-lang/src/basic" />
+      <recent name="$PROJECT_DIR$/demo-py-lang/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.generator">
+  <component name="RunManager" selected="Python.testing (1)">
     <configuration name="comparing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +238,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="demo-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo-py-lang/src/basic/data_type/buildintype" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo-py-lang/src/basic/data_type/buildintype/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,6 +282,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testing (1)" />
         <item itemvalue="Python.generator" />
         <item itemvalue="Python.math" />
         <item itemvalue="Python.comparing" />
@@ -222,20 +304,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1001" y="120" width="1155" height="873" extended-state="0" />
+    <frame x="199" y="114" width="1573" height="951" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2030548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2501633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3277849" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32712457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948782" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35851473" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35851473" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -262,8 +344,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basic/buildintype/math.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/expression/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-py-lang/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/demo_yield.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/expression/generator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/data_type/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-py-lang/src/basic/data_type/buildintype/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-py-lang/src/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
